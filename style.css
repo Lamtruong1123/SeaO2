@@ -6,7 +6,8 @@ body {
   }
   
   .header {
-    background-image: url(/Image/ai-generated-seaweed-and-sunlight-free-photo.jpg);
+    background-image: url(Image
+/ai-generated-seaweed-and-sunlight-free-photo.jpg);
     background-size: cover;
     background-position: center;
     height: 450px;
